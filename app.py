@@ -1,4 +1,4 @@
 
+name = input('Введите ваше имя:')
 
-
-print('Hello world')
+print(f'Hello {name}')
